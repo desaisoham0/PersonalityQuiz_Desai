@@ -1,4 +1,5 @@
-# Personality Quiz App | iOS Development (May 2024) [Click here] (https://athletics-store.great-site.net/) 
+# Personality Quiz App | iOS Development (May 2024)
+[Website Link](https://athletics-store.great-site.net/) to visit website.
 
 ## Overview
 The Personality Quiz App is a multi-screen iOS application developed using Swift and Xcode. This app focuses on providing an engaging user experience by implementing smooth navigation workflows and a well-designed user interface. The quiz is designed to be creative and logical, offering users a unique and personalized outcome based on their responses.
